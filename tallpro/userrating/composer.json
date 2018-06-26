@@ -1,0 +1,14 @@
+{
+    "name": "tallpro/user-rating",
+    "description": "Adds extra field for user rating. used with Clarke - User Extended plugin.",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Deividas Ambrazevicius",
+            "email": "support@tallpro.com",
+            "homepage": "https://tallpro.com",
+            "role": "Developer"
+        }
+    ],
+    "require": {}
+}
